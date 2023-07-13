@@ -14,7 +14,7 @@
       "AActor":"0x98",
       "CurrentActor":"0x8",
       "Mesh":"0x310",
-      "Revivefromdbnotime":"0x4698",
+      "Revivefromdbnotime":"0x4540",
       "TeamId":"0x10C8",
       "ActorTeamId":"0x10C8",
       "IsDBNO":"0x872",
@@ -27,8 +27,8 @@
       "relativelocation":"0x2E8",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
-      "bIsReloadingWeapon":"0x331",
+      "bIsReloadingWeapon":"0x348",
       "GlobalAnimRateScale":"0xa58",
-      "CurrentWeapon":"0x948"
+      "CurrentWeapon":"0x908"
    }
 }
