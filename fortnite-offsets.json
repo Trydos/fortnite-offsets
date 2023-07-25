@@ -19,7 +19,7 @@
       "TeamId":"0x10C8",
       "ActorTeamId":"0x10C8",
       "IsDBNO":"0x872",
-      "Bonecache":"0x640"
+      "Bonecache":"0x640",
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x240",
       "BoneArray":"0x600",
