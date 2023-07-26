@@ -1,7 +1,7 @@
 {
    "offsets":{
       "uworld":"0xEE2F8E8",
-      "ViewPoint":"0xED57310",
+      "ViewPoint":"0xE9AD420",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
@@ -26,7 +26,7 @@
       "Velocity":"0xb8",
       "PawnPrivate":"0x300",
       "PlayerArray":"0x2a0",
-      "relativelocation":"0x128",
+      "relativelocation":"0x2E8",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
       "bIsReloadingWeapon":"0x331",
